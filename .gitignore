@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Database
+*.db
+
+# Cache
+*.log
+*.pickle
+
+# Model files
+*.pt
+*.bin
+
+# Frontend builds
+build/
+dist/
+node_modules/
